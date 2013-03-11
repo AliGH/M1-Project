@@ -11,7 +11,7 @@
 * [1Styles](http://ali.md/1styles)
 * [JavaScript](http://ali.md/wiki/javascript)
 * [jQuery.js](http://ali.md/jquery.js)
-* [jQueryMobile.js](http://ali.md/jqm.js)
+* [jQueryMobile.js](http://jquerymobile.com)
 * [Cordova.js](http://cordova.apache.org)
 
 ## Change Log
